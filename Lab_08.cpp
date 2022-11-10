@@ -1,9 +1,4 @@
 ﻿// Задание №8, Вариант 3.
-// https://www.cyberforum.ru/cpp-beginners/thread1184533.html
-// http://comp-science.narod.ru/Progr/file_c.htm
-// сортировка бинарного файла си
-// https://www.cyberforum.ru/c-beginners/thread2199180.html
-// https://vscode.ru/task/sortirovka-massiva-struktur.html сортировка
 
 #include <iostream>
 #include <stdio.h>		// Для структуры предопределенного типа FILE
